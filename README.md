@@ -10,7 +10,7 @@ The live version of the website can be accessed at: [https://bassiouny2.github.i
 - Includes PSD files for the design.
 
 ## License
-This project is licensed under the [MIT License](LICENSE.md). You are free to use, modify, and distribute this code for both commercial and non-commercial purposes. Please see the [LICENSE.md](LICENSE.md) file for more details.
+This project is licensed under the [MIT License](LICENSE.md). You are free to use, modify, and distribute this code for both commercial and non-commercial purposes.
 
 ## PSD Files
 The repository includes the PSD files used for the design of the website. You can find them in the `psd-files` directory.
